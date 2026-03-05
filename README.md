@@ -1,5 +1,9 @@
 # 🌌 Chat AI: Exploring the Frontier of Gemini Flash
 
+[Leia em Português](README.pt-BR.md)
+
+
+
 [![Java](https://img.shields.io/badge/Java-25-orange?logo=openjdk)](https://openjdk.org/projects/jdk/25/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.0.3-brightgreen?logo=springboot)](https://spring.io/projects/spring-boot)
 [![Spring AI](https://img.shields.io/badge/Spring_AI-2.0.0--M2-blue)](https://spring.io/projects/spring-ai)
