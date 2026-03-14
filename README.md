@@ -1,8 +1,4 @@
-# 🌌 Chat AI: Explorando a Fronteira do Gemini Flash
-
-[Read in English](README.md)
-
-
+# 🌌 Chat AI: Explorando a LLM Gemini Flash
 
 [![Java](https://img.shields.io/badge/Java-25-orange?logo=openjdk)](https://openjdk.org/projects/jdk/25/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.0.3-brightgreen?logo=springboot)](https://spring.io/projects/spring-boot)
