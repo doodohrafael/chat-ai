@@ -49,7 +49,7 @@ Para rodar este projeto, você precisa de um Projeto no Google Cloud com a API V
     *   Inicialize seu projeto e habilite a API Vertex AI.
     *   Configure seu arquivo `src/main/resources/application.properties`:
         ```properties
-        spring.ai.vertex.ai.gemini.project-id=project-id
+        spring.ai.vertex.ai.gemini.project-id=${PROJECT_ID}
         spring.ai.vertex.ai.gemini.location=us-east4
         ```
 
